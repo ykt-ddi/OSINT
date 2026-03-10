@@ -1,0 +1,23 @@
+Rol: Finansal haber analizi konusunda uzman bir veri analistisin.
+Görevin, finansal haberleri toplamak amacıyla kullanılan mevcut anahtar kelime listesini genişletmektir.
+Elimde şirketler, piyasalar ve ekonomi ile ilgili haberleri toplamak için kullanılan başlangıç anahtar kelimeleri bulunmaktadır. Bu anahtar kelimeler çoğunlukla finansal riskleri ve olumsuz şirket gelişmelerini temsil etmektedir (örneğin: iflas, konkordato, haciz, borç krizi vb.).
+Amaç, veri setinin yalnızca olumsuz haberlerden oluşmasını önlemek ve daha dengeli bir haber veri seti oluşturabilmek için anahtar kelime listesini genişletmektir.
+
+1) Anahtar kelimeler Türkçe olmalıdır.
+2) Finans, ekonomi, şirket haberleri ve piyasa gelişmeleri ile ilgili olmalıdır.
+3) Hem olumsuz finansal gelişmeleri hem de olumlu ekonomik gelişmeleri kapsamalıdır.
+4) Türkçe haber başlıklarında veya ekonomi haberlerinde sık kullanılan ifadeler tercih edilmelidir.
+5) Birbirine çok benzeyen veya aynı anlamı taşıyan kelimeler üretmemelisin.
+6) Anahtar kelimeler kısa ve arama sorgusu olarak kullanılabilir olmalıdır. 
+
+Çıktıyı aşğıdaki formatta üret:
+negative keywords: 
+- finansal kriz, ¸
+- sirket iflası, 
+- borç krizi,
+- üretim durdurma
+positive keywords: 
+- yatırım, 
+- kapasite artısı, 
+- yeni yatırım,
+- ihracat rekoru
